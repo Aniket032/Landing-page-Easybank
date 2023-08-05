@@ -1,9 +1,9 @@
-#Responsive Landing Page
+# Responsive Landing Page
 
 This repository contains a responsive landing page built using HTML, SCSS, and JavaScript. The landing page is designed to be visually appealing, user-friendly, and compatible with various devices and screen sizes.
 
 Landing Page Screenshot
-#Features
+# Features
 
 Responsive Design: The landing page adapts to different screen sizes, including desktop, tablet, and mobile, ensuring an optimal viewing experience for users on any device.
 
@@ -11,9 +11,8 @@ SCSS Styling: The CSS is written using SCSS, a powerful CSS preprocessor that of
 
 JavaScript Functionality: The landing page incorporates JavaScript to provide interactive elements, smooth animations, and enhanced user experience.
 
-#Getting Started
 
-#Contributing
+# Contributing
 
 If you find any issues with the landing page or want to contribute to its improvement, feel free to submit a pull request. We welcome contributions from the community!
 License
