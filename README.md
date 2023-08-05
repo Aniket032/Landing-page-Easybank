@@ -2,7 +2,15 @@
 
 This repository contains a responsive landing page built using HTML, SCSS, and JavaScript. The landing page is designed to be visually appealing, user-friendly, and compatible with various devices and screen sizes.
 
-Landing Page Screenshot
+## Deskstop
+
+[!deskstop] (https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/vaumoyeeeyk93ohy7vbr.jpg)
+
+## Mobile
+
+[!mobile] (https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/c2k8wnfrx39c2ch3olcr.jpg)
+
+
 # Features
 
 Responsive Design: The landing page adapts to different screen sizes, including desktop, tablet, and mobile, ensuring an optimal viewing experience for users on any device.
