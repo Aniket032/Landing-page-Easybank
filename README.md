@@ -4,11 +4,11 @@ This repository contains a responsive landing page built using HTML, SCSS, and J
 
 ## Deskstop
 
-[!deskstop] (https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/vaumoyeeeyk93ohy7vbr.jpg)
+[!deskstop](https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/vaumoyeeeyk93ohy7vbr.jpg)
 
 ## Mobile
 
-[!mobile] (https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/c2k8wnfrx39c2ch3olcr.jpg)
+[!mobile](https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/c2k8wnfrx39c2ch3olcr.jpg)
 
 
 # Features
