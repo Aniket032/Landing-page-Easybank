@@ -4,11 +4,12 @@ This repository contains a responsive landing page built using HTML, SCSS, and J
 
 ## Deskstop
 
-[!deskstop](https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/vaumoyeeeyk93ohy7vbr.jpg)
+![Deskstop landing page](https://github.com/Aniket032/Landing-page-Easybank/assets/86246308/2df41c26-3fa4-4c99-8b67-477916bc2638)
 
 ## Mobile
 
-[!mobile](https://res.cloudinary.com/dz209s6jk/image/upload/v1583427799/Challenges/c2k8wnfrx39c2ch3olcr.jpg)
+![image](https://github.com/Aniket032/Landing-page-Easybank/assets/86246308/f689e971-1959-4393-a928-0c770700b87b)
+
 
 
 # Features
